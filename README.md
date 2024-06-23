@@ -25,7 +25,7 @@ DegenToken is an ERC20 token designed for the Degen Gaming platform on the Avala
 
 ## Authors
 vaibhav chhillar 
-vaicozcchillar@gmail.com
+vaicozchhillar@gmail.com
 
 ## License
 
